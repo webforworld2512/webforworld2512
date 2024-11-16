@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm Surabhi 
+Pursuing Master's in Information Systems at San Diego State University, San Diego, California
 
-<!--
-**webforworld2512/webforworld2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✍️ My Blogs
 
-Here are some ideas to get you started:
+Medium: [https://medium.com/@juliuscecilia33](https://medium.com/@juliuscecilia33)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+* GitHub: You are here! 
+
+* LinkedIn: [surabhi-chavan](https://www.linkedin.com/in/surabhi-chavan-1b508b1aa/)
+
+* E-mail: [schavan2264@sdsu.edu](schavan2264@sdsu.edu)
+
+* Personal E-mail: [surabhichavan2512@gmail.com](surabhichavan2512@gmail.com)
+
+## 🔭 I’m currently working on:
+[ROOM, built with the Next.js and TypeScript, this project replicates Zoom.](https://github.com/webforworld2512/Room)
+
+## 🌱 I’m currently learning:
+React Native
