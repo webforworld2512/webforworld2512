@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.jsdelivr.net/gh/alohe/avatars/png/vibrent_21.png)
 # 👋 Hi there! I'm Surabhi 
 Pursuing Master's in Information Systems at San Diego State University, San Diego, California
 
