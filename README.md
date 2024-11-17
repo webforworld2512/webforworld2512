@@ -4,7 +4,7 @@ Pursuing Master's in Information Systems at San Diego State University, San Dieg
 
 ## ✍️ My Blogs
 
-Medium: [https://medium.com/@juliuscecilia33](https://medium.com/@juliuscecilia33)
+Medium: [https://medium.com/@surabhichavan2512](https://medium.com/@surabhichavan2512)
 
 ## 📫 How to reach me:
 * GitHub: You are here! 
