@@ -8,7 +8,7 @@ Medium: [https://medium.com/@surabhichavan2512](https://medium.com/@surabhichava
 ## 📫 How to reach me:
 * GitHub: You are here! 
 
-* Portfolio: [surabhi-portfolio]([https://www.linkedin.com/in/surabhi-chavan-1b508b1aa/](https://webforworld2512.github.io/surabhi-portfolio/))
+* Portfolio: [surabhi-portfolio](https://webforworld2512.github.io/surabhi-portfolio/)
 
 * LinkedIn: [surabhi-chavan](https://www.linkedin.com/in/surabhi-chavan-1b508b1aa/)
 
