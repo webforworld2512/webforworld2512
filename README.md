@@ -12,12 +12,10 @@ Medium: [https://medium.com/@surabhichavan2512](https://medium.com/@surabhichava
 
 * LinkedIn: [surabhi-chavan](https://www.linkedin.com/in/surabhi-chavan-1b508b1aa/)
 
-* E-mail: [schavan2264@sdsu.edu](schavan2264@sdsu.edu)
-
 * Personal E-mail: [surabhichavan2512@gmail.com](surabhichavan2512@gmail.com)
 
 ## 🔭 I’m currently working on:
-[ROOM, built with the Next.js and TypeScript, this project replicates Zoom.](https://github.com/webforworld2512/Room)
+[OpenWork - Anonymous Employee Feedback Platform](https://github.com/webforworld2512/OpenWork)
 
 ## 🌱 I’m currently learning:
 React Native
