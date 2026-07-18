@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Surabhi 
-Pursuing Master's in Information Systems at San Diego State University, San Diego, California
+Holds a Master of Science in Information Systems from San Diego State University.
 
 ## ✍️ My Blogs
 
